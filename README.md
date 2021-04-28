@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devgabrielsouza4278
 - 👀 I’m interested in Springboot, Java, JavaScript,SQL.
 - 🌱 I’m currently learning Java and Springboot
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
       e-mail: gabriel_alves.14@hotmail.com 
       phone: (11) 96542-8188
